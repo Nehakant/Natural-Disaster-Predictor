@@ -1,8 +1,8 @@
-# Natural Disaster Predictor                                                                                      ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+# Natural Disaster Predictor                                                                                      !
 
 This project is an attempt to predict natural disasters using Deep Learning
 
-## Predicting and Managing Natural disasters
+## Predicting and Managing Natural disasters    ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 
 ### Background:
 Every year we lose numerous precious lives due to floods, earthquakes, landslides, cloud burts, tsunamis and other natural disasters. A lot of damage is done to peoples’ lives. The propertly loss, displacement, mainteneance, relocating and other things are a only the beginnning of the post disaster effects..
