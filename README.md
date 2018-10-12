@@ -1,4 +1,5 @@
-# Natural Disaster Predictor
+# Natural Disaster Predictor                                                                                      ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
+
 This project is an attempt to predict natural disasters using Deep Learning
 
 ## Predicting and Managing Natural disasters
