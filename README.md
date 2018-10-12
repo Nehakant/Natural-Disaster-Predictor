@@ -41,6 +41,7 @@ We in this project want to
 5) As an extension we want to use twitter data and data mining to predict and fast detect natural disasters, as a pure data mining and integration in machine learning implementaion. We have planned to use geo tags to asses the dynamism of public in a paricular region and their readiness to natural disasters.
 
 Seismological, Hydrological and geological datasets are paid. So we try open sources for remote sensing data and google mapping data and data sets for other countries which are free.
+
 Twitter data for point 5 is available from ```twitter archive source``` and ```twitter apis.```
 
  
