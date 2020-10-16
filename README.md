@@ -5,7 +5,7 @@ This project is an attempt to predict natural disasters using Deep Learning
 ## Predicting and Managing Natural disasters    ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
 
 ### Background:
-Every year we lose numerous precious lives due to floods, earthquakes, landslides, cloud burts, tsunamis and other natural disasters. A lot of damage is done to peoples’ lives. The propertly loss, displacement, mainteneance, relocating and other things are a only the beginnning of the post disaster effects..
+Every year we lose numerous precious lives due to floods, earthquakes, landslides, cloud burts, tsunamis and other natural disasters. A lot of damage is done to peoples’ lives. The propertly loss, displacement, mainteneance, and other things are a only the beginnning of the post disaster effects..
 
 What if we could predict these before hand? What if we could put proper systems in place to detect them when they occur resulting in quick response? What if we could create a proper relocation network in place post disaster to strive and bring back to things back to where it all started?
 
